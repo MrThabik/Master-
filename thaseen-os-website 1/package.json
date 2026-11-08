@@ -1,0 +1,25 @@
+{
+  "name": "thaseen-os",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "@sparticuz/chromium": "^123.0.1",
+    "@supabase/supabase-js": "^2.45.0",
+    "next": "14.2.15",
+    "puppeteer-core": "^22.15.0",
+    "react": "18.3.1",
+    "three": "^0.160.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/three": "^0.160.0",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5"
+  }
+}
